@@ -40,7 +40,7 @@ export const showPopup = async (title, message, status) => {
     });
 }
 
-export const URL = "https://task-tracker.quocent.com"
+export const URL = "your URL"
 
 export const getPermissions = () => {
     // Older browsers might not implement mediaDevices at all, so we set an empty object first
