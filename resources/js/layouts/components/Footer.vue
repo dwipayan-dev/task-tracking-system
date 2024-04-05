@@ -12,11 +12,11 @@
         class="mx-1"
       /> -->
       By <a
-        href="https://quocent.com/"
+        href="#"
         target="_blank"
         rel="noopener noreferrer"
         class="text-primary ms-1"
-      >Quocent</a>
+      >dwipayan-dev</a>
     </span>
     <!-- 👉 Footer: right content -->
     <!-- <span class="d-md-flex gap-x-4 text-primary d-none">
