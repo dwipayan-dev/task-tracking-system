@@ -1,4 +1,4 @@
-This Task Tracking System developed in Laravel and Vue.js.
+Task Tracking System developed in Laravel and Vue.js.
 
 Dependency
 Laravel 10
