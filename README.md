@@ -8,8 +8,8 @@ Node 20.0.0 or higher
 
 Follow these steps to run the project in localhost.
 
-step 1: npm install\n
-step 2: composer install\n
+step 1: npm install
+step 2: composer install
 step 3: npm run dev
 step 4: php artisan serve
 step 5: set dynamic URL in "/resources/js/helper.js" path.
