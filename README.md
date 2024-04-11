@@ -1,7 +1,7 @@
 #Images
 <ul>
    <li>
-  <img src="/src/assets/Screenshot 2024-04-11 125846.png">
+  <img src="/Screenshot 2024-04-11 152643.png">
   </li>
 </ul>
 Task Tracking System developed in Laravel and Vue.js.
