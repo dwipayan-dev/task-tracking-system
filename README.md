@@ -3,6 +3,25 @@
    <li>
   <img src="/Screenshot 2024-04-11 152643.png">
   </li>
+   <li>
+  <img src="/Screenshot 2024-04-11 153019.png">
+  </li>
+   <li>
+  <img src="/Screenshot 2024-04-11 153049.png">
+  </li>
+   <li>
+  <img src="/Screenshot 2024-04-11 153253.png">
+  </li>
+   <li>
+  <img src="/Screenshot 2024-04-11 153343.png">
+  </li>
+   <li>
+  <img src="/Screenshot 2024-04-11 153417.png">
+  </li>
+   <li>
+  <img src="/Screenshot 2024-04-11 153534.png">
+  </li>
+  
 </ul>
 Task Tracking System developed in Laravel and Vue.js.
 
