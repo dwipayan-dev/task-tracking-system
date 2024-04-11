@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8" />
-    <link rel="icon" href="https://quocent.com/wp-content/uploads/2023/07/favicon-150x150.png" />
+    <link rel="icon" href="" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Task Tracking System</title>
     <link rel="stylesheet" type="text/css" href="{{ asset('loader.css') }}" />
